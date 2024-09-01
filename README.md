@@ -1,2 +1,2 @@
 # mainc
-All of My C Projects
+All C Projects
